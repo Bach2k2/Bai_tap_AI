@@ -1,0 +1,14 @@
+Django
+django-debug-toolbar
+djangorestframework
+gunicorn
+Keras
+Keras-Applications
+Keras-Preprocessing
+numpy
+pandas
+pytest
+tensorflow
+psycopg2
+requests
+setuptools
